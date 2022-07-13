@@ -9,3 +9,5 @@
 4. Add configuration for switches
 
 5. Restart again to load switches
+
+If Home Assistant is unable to connect to your Switchmates, try a full reboot of the host system.
