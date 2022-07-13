@@ -1,0 +1,10 @@
+{
+  "domain": "switchmate",
+  "name": "Switchmate SimplySmart Home",
+  "documentation": "https://www.home-assistant.io/integrations/switchmate",
+  "requirements": ["bleak==0.14.3"],
+  "codeowners": ["@danielhiversen"],
+  "iot_class": "local_polling",
+  "loggers": ["switchmate"],
+  "version": "0.5.0"
+}
