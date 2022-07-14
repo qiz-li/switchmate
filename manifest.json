@@ -2,8 +2,9 @@
   "domain": "switchmate",
   "name": "Switchmate SimplySmart Home",
   "documentation": "https://www.home-assistant.io/integrations/switchmate",
-  "codeowners": ["@danielhiversen"],
+  "requirements": ["pySwitchmate==0.5.1"],
+  "codeowners": ["@danielhiversen", "@qiz-li"],
   "iot_class": "local_polling",
   "loggers": ["switchmate"],
-  "version": "0.5.1"
+  "version": "1.0"
 }
